@@ -1,3 +1,8 @@
+This is a fork of abandoned [gosuri/uilive](https://github.com/gosuri/uilive) which **I AM NOT MAINTAINING**, I have cloned it for personal use and incorporated all the pull requests to the original repo as they are fixing some glitches.
+
+
+## Original doco:
+
 # uilive [![GoDoc](https://godoc.org/github.com/gosuri/uilive?status.svg)](https://godoc.org/github.com/gosuri/uilive) [![Build Status](https://travis-ci.org/gosuri/uilive.svg?branch=master)](https://travis-ci.org/gosuri/uilive)
 
 uilive is a go library for updating terminal output in realtime. It provides a buffered [io.Writer](https://golang.org/pkg/io/#Writer) that is flushed at a timed interval. uilive powers [uiprogress](https://github.com/gosuri/uiprogress).

@@ -1,3 +1,3 @@
-module github.com/gosuri/uilive
+module github.com/nemoden/uilive
 
-go 1.10
+go 1.19
